@@ -11,11 +11,19 @@ The analysis will break down city data into 3 categories:
  - Suburban
  - Urban
 
+The Data Represented:
+
+  - *Total Rides* - Total number of rides
+  - *Total Drivers* - Total number of drivers assigned to city type
+  - *Total Fares* - Total number of Fares
+  - *Average Fare per Ride* - Average fare earned per ride in given city
+  - *Average Fare per Driver* - Average fare earned per driver in given city
+
 ## Results
 ### Deliverable 1: Get a Summary DataFrame
 The first deliverable was to merge the two sets of data in to a single dataframe, group the data by city type, and calculate the totals.
 
-|          | Total Rides | Total Drivers | Total Fares | Average Fare per Ride | Average Fare per Driver |
+| City Type | Total Rides | Total Drivers | Total Fares | Average Fare per Ride | Average Fare per Driver |
 |----------|-------------|---------------|-------------|-----------------------|-------------------------|
 | Rural    | 125         | 78            | $4,327.93   | $34.62                | $55.49                  |
 | Suburban | 625         | 490           | $19,356.33  | $30.97                | $39.50                  |
