@@ -58,12 +58,15 @@ The data used to populate the graph is shown below:
 3. Determine effectiveness of pretermined routes/hot zones near places of interest.
 
 >1. Include route/positional data for rides.
+>
 Including route/positional data for rides would allow further analysis on more efficient ways to get more fares. Positional data combined with a start ride time and end ride time combined with a heat map over time would allow you to see where and how the demand for rides shift over position and time. Using these trends you could better anticipate and maximize number of fares per driver.
 
 >2. Include non-fare travel time/distance.
+>
 Including non-fare travel time will help provide insight on "dead-zones" and timing windows where drivers are less needed. This will help operation time be better spend on periods and places where it is most needed. 
 
 >3. Determine effectiveness of pretermined routes/hot zones near places of interest.
+>
 Predetermined routes can help consolidate high volume places of interest. How effective and if it is worth while to impletment a system for predetermined routes will require further analysis depending on the city.
 
 
